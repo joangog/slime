@@ -1,3 +1,10 @@
+## Fork Supplement:
+In this fork of the original repository of S-LIME we expanded the algorithm to image data. This fork is a project developped in the context of the course "Interpretability and Explainability in AI" of the MSc AI program in the University of Amsterdam. Our findings can be summarized by the following poster:
+
+<p align="center">
+  <img src="/IEinAI Poster.png" width="1000">
+</p>
+
 # slime
 
 This repository holds code for replicating experiments in papar [S-LIME: Stabilized-LIME for Model Explanation]() to appear in [KDD2021](https://www.kdd.org/kdd2021/). 
