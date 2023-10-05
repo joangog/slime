@@ -1,5 +1,5 @@
 ## Fork Supplement:
-In this fork of the original repository of S-LIME we expanded the algorithm to image data. This fork is a project developped in the context of the course "Interpretability and Explainability in AI" of the MSc AI program in the University of Amsterdam. Our findings can be summarized by the following poster:
+In this fork of the original repository of S-LIME, we expanded the algorithm to image data. The expansion has been merged to the original repository. This project was developped in the context of the course "Interpretability and Explainability in AI" of the MSc AI program in the University of Amsterdam. Our findings can be summarized by the following poster:
 
 <p align="center">
   <img src="/IEinAI Poster.png" width="1000">
